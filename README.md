@@ -19,3 +19,9 @@ and tag-data.xml
 10. Now open "queries" file and "topictag" file. Manually check which topic is matched to which query and keep on the best category in "topictag" file for that paricular topic. Remove others.
 11. Run "python ldaTest.py" to check the accuracy of learnt model.
 12. To test any random text. Write it in file "test" and run "python testRandom.py".
+
+Github webpage link: https://github.com/thegame61916/SMAIProjectTopicModelling
+
+Youtube video link: https://www.youtube.com/watch?v=_duYz6fwVtI
+
+Presentation slideshare link: http://www.slideshare.net/MohitSharma634/smai-project-topic-modelling
